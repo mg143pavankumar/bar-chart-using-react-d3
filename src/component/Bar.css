@@ -1,0 +1,7 @@
+.axis.x g.tick text {
+  transform: translateX(-2.5%) translateY(7%) rotate(-90deg);
+}
+
+svg {
+  background-color: transparent !important;
+}
